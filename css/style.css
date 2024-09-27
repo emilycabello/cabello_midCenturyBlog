@@ -1,0 +1,74 @@
+body {
+    background-color:lightblue;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+nav a{
+    font-family: 'josefin sans';
+    display: inline;
+    font-size: 16px;
+    color: #047F8C;
+    text-decoration: none;
+    margin-inline-start: 90px;
+    margin-inline-end: 90px;
+    text-align: justify;
+}
+
+header a { 
+    font-family: 'josefin sans';
+    font-size: 37px;
+    color: #3A400C;
+    margin: 25%;
+    text-decoration: none;
+    text-align: center;
+}
+
+h3 {
+    font-family: "josefin sans";
+    font-size: 18px;
+    color: #047F8C;
+    text-align: left;
+ }
+
+h2 {
+    font-family:'lato';
+    font-size: 22.5px;
+}
+
+
+
+p { 
+    font-family: 'lato';
+    font-size: 15 px;
+    width: 1000px;
+}
+ul a {
+    font-family: 'josefin sans';
+    font-size: 16px;
+    color: #3A400C; 
+    text-decoration: none;
+}
+aside img { 
+        width: 300px;
+        height: auto;
+}
+
+img {
+    width: 1000px;
+    height: auto; 
+}
+
+footer { 
+    background-color: #04adbf;
+    text-align: center;
+}
+
+footer a{
+    text-decoration: none;
+}
+.social-links{
+    font-family: 'josefin sans';
+    font-size: 16px;
+    text-decoration: none;
+}
